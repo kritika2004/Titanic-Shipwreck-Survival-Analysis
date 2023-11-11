@@ -12,12 +12,19 @@ In this code, I worked with the Titanic dataset to predict whether passengers su
 ![image](https://github.com/kritika2004/Titanic-Shipwreck-Survival-Analysis/assets/112310702/40a7bbbb-4c67-4831-99f0-6c5b0818f82e)
 
 Training score:  0.985239852398524
+
 Testing score:  0.7811158798283262
+
      Actual  Predicted
+     
 493       0          0
+
 821       1          0
+
 381       1          1
+
 881       0          0
+
 420       0          0
 
 
